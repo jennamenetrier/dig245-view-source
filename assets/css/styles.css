@@ -1,2 +1,10 @@
 
 /* css */
+h1{
+  color: pink;
+  font-weight: bold;
+}
+.intro {
+  font-style: italic;
+  color: #990000
+}
