@@ -1,10 +1,14 @@
 
 /* css */
 h1 {
-  color: blue;
+  color: lightblue;
   font-weight: bold;
 }
 intro {
   font-style: italic;
-  color: #990000;
+  color: lightpink;
+}
+h2 {
+  color: hotpink;
+  font-weight: bold;
 }
